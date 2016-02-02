@@ -19,6 +19,7 @@ Work Allocation
 
 Curtis Baldwinson
 Dylan Blake
+Micah Willems
 
 **************
 Intended Usage
