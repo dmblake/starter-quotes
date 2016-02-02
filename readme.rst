@@ -7,6 +7,20 @@ This is the starter webapp for Tutorial ci-normal01
 It is purposefully broken.
 
 **************
+Code Style
+**************
+
+Changelog: Newest at top
+Coding style: K&R and variants (braces on same line as function)
+
+**************
+Work Allocation
+**************
+
+Curtis Baldwinson
+Dylan Blake
+
+**************
 Intended Usage
 **************
 
