@@ -10,15 +10,22 @@ It is purposefully broken.
 Code Style
 **************
 
-Changelog: Newest at top
+Changelog: Newest at top, date and time goes first (Jan 1, 2016 11:11AM - Content goes here)
+
 Coding style: K&R and variants (braces on same line as function)
+
+Comments: /** multi-line comment */ or // single line comment
+
+Whitespace: Spaces
 
 **************
 Work Allocation
 **************
 
-Curtis Baldwinson
+Curtis Baldwinson: 1 & 4
+
 Dylan Blake -- 2 & 5 & 7
+
 Micah Willems: 3, 6, 8
 
 **************
