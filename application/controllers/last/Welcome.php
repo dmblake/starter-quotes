@@ -1,9 +1,11 @@
 <?php
+
 /**
  * Welcome page for the last folder.
  * Will display the last quote in the database.
  */
-class Welcome extends Application {
+class Welcome extends Application
+{
 	function __construct()
 	{
 		parent::__construct();

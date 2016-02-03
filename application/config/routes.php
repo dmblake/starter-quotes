@@ -49,6 +49,9 @@ $route['dunno'] = function() {
     readfile($source); // dish it
     die(); // and we don't have to go any further
 };
+$route['show/(:num)'] = 'first/gimme/$1';
+$route['lock/(:any)/(:any)'] = 'welcome/shucks';
+$route['([a-zA-Z]{4,4})/bingo'] = 'bingo';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
