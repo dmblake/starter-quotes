@@ -19,7 +19,7 @@ Work Allocation
 
 Curtis Baldwinson
 Dylan Blake -- 2 & 5 & 7
-Micah Willems
+Micah Willems: 3, 6, 8
 
 **************
 Intended Usage
