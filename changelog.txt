@@ -1,1 +1,3 @@
 Feb 2, 2016 3:01PM - Initial entry required by lab04 instructions
+Feb 2, 2016 16:20 - Changed Readme, Micah W.
+Feb 2, 2016 17:08 - Fixed first link, 3rd task, Micah W.
