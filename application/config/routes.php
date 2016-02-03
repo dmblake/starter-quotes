@@ -47,11 +47,12 @@ $route['dunno'] = function() {
     header("Content-type: image/jpeg"); 
     header('Content-Disposition: inline');
     readfile($source); // dish it
-    die(); // and we don't have to go any further
+    die(); // and we don't have to go any further asdfasd
 };
 $route['show/(:num)'] = 'first/gimme/$1';
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
 $route['([a-zA-Z]{4,4})/bingo'] = 'bingo';
+$route['comp(\d+)/(.+)'] = 'wise/bingo';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
