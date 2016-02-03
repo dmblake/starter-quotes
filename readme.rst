@@ -18,7 +18,7 @@ Work Allocation
 **************
 
 Curtis Baldwinson
-Dylan Blake
+Dylan Blake -- 2 & 5 & 7
 Micah Willems
 
 **************
