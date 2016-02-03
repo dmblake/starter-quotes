@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Our homepage. Show a table of all the author pictures. Clicking on one should show their quote.
  * Our quotes model has been autoloaded, because we use it everywhere.
@@ -15,7 +14,15 @@ class First extends Application
 	{
 		parent::__construct();
 	}
-
+        
+        function zzz()
+	{
+            $this->data['pagebody'] = 'justone';
+            $record = $this->quotes->get('1');
+            $this->data = array_merge($this->data, $record);
+            $this->render();
+        }
+        
 	//-------------------------------------------------------------
 	//  The normal pages
 	//-------------------------------------------------------------
